@@ -70,7 +70,7 @@ Minor in Python, specialization in constitutional panic.
 ## 🧰 Projects  
 
 ### Case Organizer v3  
-A local-server web app that organizes legal files before they organize you.  
+A local-server web app that organizes case files like it’s 2050.
 
 ---
 
