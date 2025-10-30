@@ -74,7 +74,7 @@ A local-server web app that organizes legal files before they organize you.
 
 ## ☕ Fun Fact  
 
-I mostly debug humans, not programs.  
+I mostly debug orders, not programs.  
 
 ```none
 sudo pacman -S justice  # (I use Arch btw™)
