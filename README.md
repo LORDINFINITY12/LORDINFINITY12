@@ -13,6 +13,17 @@ Currently pretending to balance judicial internships with rewriting Python scrip
 
 ## 💼 Professional Experience  
 
+**Judicial Intern @ Hon’ble Mr. Justice K.V. Vishwanathan – Supreme Court of India (Nov 2025)**  
+- Worked on criminal, civil, commercial, regulatory, and constitutional matters because apparently I don’t need sleep.  
+- Contributed research for the *reportable* SC judgment **Rajeswari v. Shanmugam (2025 INSC 132)**.  
+- Attended in-person Supreme Court hearings like a courtroom tourist with a notepad.  
+- Split time between arbitration, SEBI, taxation, property disputes, and whatever else the docket threw at me.  
+
+**Judicial Intern @ Supreme Court Legal Services Committee (SCLSC), Supreme Court of India (Sep 2025)**  
+- Processed files in death-penalty, life-imprisonment, and liberty cases for legal-aid allocation.  
+- Drafted appeals challenging denial of legal aid.  
+- Learned “access to justice” means “access to 10,000 pages.”  
+
 **Judicial Intern @ Hon’ble Mr. Justice Saurabh Banerjee – Delhi High Court (Aug 2025)**  
 - Handled Civil Contempt, RFAs, and Rent Control Act matters.  
 - Drafted research notes and briefs, organized case files, and achieved enlightenment through indexing.  
