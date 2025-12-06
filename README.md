@@ -1,6 +1,6 @@
 # ⚖️ Swaraj’s Legal Portfolio  
 
-Law Student | Wannabe Automation Engineer | Open-Source Contributor to My Own Sanity | One Ironic Mofo
+Law Student | Wannabe Automation Engineer | Open-Source Contributor to My Own Sanity
 
 ---
 
