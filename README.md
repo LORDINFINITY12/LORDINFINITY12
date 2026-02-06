@@ -13,6 +13,12 @@ Currently pretending to balance judicial internships with rewriting Python scrip
 
 ## 💼 Professional Experience  
 
+**Legal Intern @ Office of the Attorney General of India – Mr. R. Venkatramani, Sr. Adv. (Attorney General of India) (Dec 2025–Jan 2026)**  
+- Worked on constitutional, public law, and public international law issues arising from Union litigation.  
+- Conducted detailed doctrinal research on constitutional adjudication, including amendment, repeal, ratio vs obiter, and co-equal bench authority.  
+- Drafted an in-depth doctrinal report on the development and application of the principle of countermeasures in international law, tracing its evolution from classical jurisprudence through adjudicatory and State practice to contemporary doctrine under ARSIWA.  
+- Worked on jurisprudence relating to cooperative federalism, State revenue, and statutory interpretation across specialised regulatory regimes.
+
 **Judicial Intern @ Hon’ble Mr. Justice K.V. Vishwanathan – Supreme Court of India (Nov 2025)**  
 - Worked on criminal, civil, commercial, regulatory, and constitutional matters because apparently I don’t need sleep.  
 - Contributed research for the *reportable* SC judgment **Rajeswari v. Shanmugam (2025 INSC 132)**.  
