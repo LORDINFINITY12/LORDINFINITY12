@@ -51,7 +51,7 @@ Currently pretending to balance judicial internships with rewriting Python scrip
 - Drafted pleadings, researched precedent, and discovered lawyers use “tomorrow” loosely.  
 
 **Legal Intern @ Adv. Aishwarya Bhati (ASG), Supreme Court of India (Aug–Sep 2023)**
--Researched statutes, tracked legislation, and took notes no one admitted reading.  
+- Researched case-law, tracked legislation, and drafted notes no one read.  
 
 **Legal Intern @ Adv. Pradeep Shekhawat – Delhi (Jun 2023–Apr 2024)**
 - Assisted on criminal, civil, and special-statute matters (PMLA, NDPS, POCSO etc.).
