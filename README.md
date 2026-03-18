@@ -69,7 +69,6 @@ Currently pretending to balance judicial internships with rewriting Python scrip
 ## 🎓 Education  
 
 **B.B.A. LL.B – Guru Gobind Singh Indraprastha University**  
-Minor in Python, specialization in constitutional panic.  
 
 ---
 
@@ -86,12 +85,10 @@ Minor in Python, specialization in constitutional panic.
 
 ## 🧰 Projects  
 
-### Case Organizer v3  
-A local-server web app that organizes case files like it’s 2050.
+### Case Organizer v4  
+A local-server web app that organizes case files like it’s 2077.
 
 ---
-
-## ☕ Fun Fact  
 
 I mostly debug orders, not programs.  
 
