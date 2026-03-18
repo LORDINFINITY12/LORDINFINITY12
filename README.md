@@ -69,7 +69,7 @@ Currently pretending to balance judicial internships with rewriting Python scrip
 ## 🎓 Education  
 
 **B.B.A. LL.B – Univesity School of Law & Legal Studies, Guru Gobind Singh Indraprastha University**  
-**Elementary, Middle & High School - St. Columba's School, New Delhi **
+**Elementary, Middle & High School - St. Columba's School, New Delhi**
 ---
 
 ## 🧠 Skills  
