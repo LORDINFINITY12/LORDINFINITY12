@@ -1,4 +1,4 @@
-# ⚖️ Swaraj’s Legal Portfolio  
+# ⚖️ Swaraj’s Portfolio  
 
 Law Student | Homelaber | Open-Source Contributor to My Own Sanity
 
