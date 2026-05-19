@@ -44,7 +44,7 @@ Currently pretending to balance judicial internships with rewriting Python scrip
 
 **Judicial Intern @ Hon’ble Mr. Justice Amit Bansal – Delhi High Court (Jan–Feb 2025)**  
 - Worked on Intellectual Property Rights and election law cases.  
-- Drafted briefs and perfected handwriting on “Ld. Counsel for the Petitioner.”  
+- Drafted briefs and perfected typing “Ld. Senior Counsel for the Petitioner.”  
 
 **Judicial Intern @ Hon’ble Mr. Justice Dharmesh Sharma – Delhi High Court (Jul–Aug 2024)**  
 - Observed writs, company cases, and contempt petitions.
